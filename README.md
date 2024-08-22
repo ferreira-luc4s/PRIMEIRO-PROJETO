@@ -1,3 +1,6 @@
 # PRIMEIRO-PROJETO
 APRESENTAÇÃO  PRIMEIRA AULA 
-MELHORIA README
+
+esta doc é uma apresentação de como ua o github !!!!!
+
+fim do readme 
